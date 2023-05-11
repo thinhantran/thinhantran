@@ -1,4 +1,19 @@
-### Hi there 👋
+
+<h1 align="center"> Hi, I'am TRAN Thi Nhan 💖 </h1>
+
+<!--
+`test`
+
+```python
+def fct1():
+  return True
+```
+
+```mermaid
+graph TD;
+  A->B;
+```
+-->
 
 <!--
 **thinhantran/thinhantran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
